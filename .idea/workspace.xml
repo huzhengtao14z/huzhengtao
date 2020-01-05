@@ -28,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/music.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            <state relative-caret-position="209">
+              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
             </state>
           </provider>
         </entry>
@@ -73,11 +73,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/gallery.html" />
-        <option value="$PROJECT_DIR$/music.html" />
         <option value="$PROJECT_DIR$/research.html" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/music.html" />
       </list>
     </option>
   </component>
@@ -176,13 +176,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/research.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -207,7 +200,14 @@
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>
