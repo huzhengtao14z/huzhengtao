@@ -24,6 +24,11 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+p{ line-height:2em;
+   font-size:24px;
+   text-align:justify;
+}
+
 body {
 	line-height: 1.5;
 }
@@ -2295,7 +2300,7 @@ input, select, textarea {
 		#sidebar section, #sidebar nav {
 			position: relative;
 			margin: 2em 0 0 0;
-			font-size: 0.9em;
+			font-size: 1em;
 		}
 
 			#sidebar section:before, #sidebar nav:before {
@@ -2324,6 +2329,14 @@ input, select, textarea {
 		#sidebar header {
 			margin: 0 0 1.25em 0;
 		}
+
+		#sidebar ul {
+			line-height:2em;
+            font-size:20px;
+            text-align:justify;
+		}
+
+
 
 /* Content */
 
@@ -2392,7 +2405,7 @@ input, select, textarea {
 			}
 
 			h2 {
-				font-size: 1.2em;
+				font-size: 1.75em;
 			}
 
 			h3, h4, h5, h6 {
